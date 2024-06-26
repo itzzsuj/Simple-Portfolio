@@ -1,2 +1,5 @@
 # Simple-Portfolio
-This is the first project i've worked on upon learning html and css , this project contains two pages home and a contact me page.
+My First HTML and CSS Project
+This repository contains my first project using HTML and CSS. It includes a Home page and a Contact Me page, showcasing my newly acquired web development skills.
+
+
