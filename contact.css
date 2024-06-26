@@ -1,0 +1,63 @@
+body{
+    margin: 70px;
+    font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+}
+/*STYLING FOR THE TITLE BLOCK*/
+.name{
+    font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1200;
+  font-style: normal;
+  font-size: larger;
+  background-color: black;
+  color: white;
+  padding-left:20px;
+  border-radius: 10px;
+}
+.name__sub{
+    font-size: 20px;
+
+}
+
+.name__home{
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    border-color: white;
+}
+/*STYLING FOR THE SUBMIT BUTTON*/
+#submit{
+    background-color: orangered;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/*STYLING LAST PART*/
+.social{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.social__linkedin,.social__insta{
+    color: white;
+}
+.social__title{
+    display: inline;
+}
+
+.contact{
+    margin-top: 10px;
+}
+
+.contact__name,.contact__email,.contact__msg{
+    border: none;
+    border-bottom: solid black 1px;
+    padding: 2px;
+}

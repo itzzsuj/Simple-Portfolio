@@ -1,0 +1,108 @@
+body{
+    margin: 50px;
+}
+/*STYLING FOR THE TITLE BLOCK*/
+.name{
+    font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1200;
+  font-style: normal;
+  font-size: larger;
+  background-color: black;
+  color: white;
+  padding-left:20px;
+  border-radius: 10px;
+}
+.name__sub{
+    font-size: 20px;
+
+}
+.name__contact{
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    font-weight: 300;
+    font-size: medium;
+    margin: 3px;
+}
+
+/*STYLING FOR THE ABOUT ME BLOCK*/
+.about{
+    font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+
+}
+.about__title{
+  font-weight: 800;
+  font-size: 30px;
+}
+
+/*STYLING FOR THE MY INTEREST BLOCK*/
+
+
+.interest{
+    font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+  border-radius: 10px;
+  height: 300px;
+  
+  background-color: palevioletred;
+  display: inline-block;
+  vertical-align: top;
+  
+}
+.interest__title{
+    font-weight: 800;
+    font-size: 30px;
+    padding: 10px;
+}
+.interest__list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding-left: 10px;
+}
+
+/*STYLING FOR THE MY PROJECTS BLOCKK*/
+
+.project{
+    font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+  width: 900px;
+  height: 300px;
+    background-color: orange;
+    display: inline-block;
+    padding-left: 10px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.project__list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/*STYLING LAST PART*/
+.social{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.social__linkedin,.social__insta{
+    color: white;
+}
+.social__title{
+    display: inline;
+}
+
